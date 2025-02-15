@@ -159,9 +159,7 @@ The application requires the following environment variables:
 ## Technologies Used
 
 - Spring Boot
-- Spring Data JPA
 - MySQL
 - Retrofit
 - Twilio SDK
-- Lombok (optional)
 
